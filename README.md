@@ -1,6 +1,9 @@
 # Chess Game with AI Backend Integration
 
+![Demo](asset/demo.gif)
+
 This project integrates a chess game frontend with an AI-powered backend using AutoGen agents. The system provides a web-based chess interface that communicates with a Flask server running AI agents for intelligent gameplay.
+
 
 ## Features
 
